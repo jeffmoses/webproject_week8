@@ -39,9 +39,12 @@ To view this project on your local machine, follow these steps:
     cd your-portfolio-repo
     ```
 3.  **Open the `index.html` file:**
+   
     Simply open the `index.html` file in your preferred web browser. You don't need a local server as there are no backend dependencies.
-
------
+                               ---url
+4. view live website on        'https://jeffmoses.github.io/webproject_week8/'   
+                               ---
+----
 
 ### Project Structure
 
